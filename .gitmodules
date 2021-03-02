@@ -12,4 +12,4 @@
 	url = https://github.com/GrapheneOS/kernel_google_sunfish_techpack_audio
 [submodule "drivers/input/touchscreen/fts_touch"]
 	path = drivers/input/touchscreen/fts_touch
-	url = https://android.googlesource.com/kernel/msm-modules/fts_touch
+	url = https://android.googlesource.com/kernel/msm-modules/fts_touch_s5
